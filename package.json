@@ -27,10 +27,10 @@
   },
   "homepage": "https://github.com/karantikku/covid-vaccination-slot-notifier-india#readme",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.3",
     "dotenv": "^8.2.0",
     "node-cron": "^3.0.0",
-    "twilio": "^3.61.0"
+    "twilio": "^4.19.3"
   },
   "devDependencies": {
     "eslint": "^7.25.0",
